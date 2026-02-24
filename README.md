@@ -3,6 +3,10 @@
 Collection of small projects I developed to practice specific concepts.  
 Each original repository is **archived** but accessible.
 
+🌐 **Live Preview:** [marceloadan73.github.io/frontend-proyects](https://marceloadan73.github.io/frontend-proyects/)
+
+---
+
 ## 📋 Projects List
 
 | Project | Technologies | Repository | Demo |
@@ -13,6 +17,8 @@ Each original repository is **archived** but accessible.
 | 🎮 **Guessing Game** | HTML, CSS, JS | [View code](https://github.com/MarceloAdan73/Guessing-Game) | [Live Demo](https://marceloadan73.github.io/Guessing-Game/) |
 | 🧮 **Calculator React** | React | [View code](https://github.com/MarceloAdan73/calculator-react) | [Live Demo](https://marceloadan73.github.io/calculator-react/) |
 | ⏰ **Clock JS** | HTML, CSS, JS | [View code](https://github.com/MarceloAdan73/Clock-Js) | [Live Demo](https://marceloadan73.github.io/Clock-Js/) |
+
+---
 
 ## 📌 Status
 
