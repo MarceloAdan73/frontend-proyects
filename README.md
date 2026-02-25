@@ -3,7 +3,7 @@
 Collection of small projects I developed to practice specific concepts.  
 Each original repository is **archived** but accessible.
 
-🌐 **Live Preview:** [marceloadan73.github.io/frontend-proyects](https://marceloadan73.github.io/frontend-proyects/)
+🌐 **Live Preview:** [marceloadan73.github.io/frontend-proyects](https://marceloadan73.github.io/mini-frontend-proyects/)
 
 ---
 
